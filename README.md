@@ -60,7 +60,7 @@
 
 Скачайте архив с библиотекой или клонируйте репозиторий к себе на локальный диск:
 ```
-git clone https://github.com/Treynis/altium-library
+git clone https://github.com/temp1ar-spb/altium-library
 ```
 После этого переходите в папку *library* и видите список файлов библиотеки компонентов:
 
